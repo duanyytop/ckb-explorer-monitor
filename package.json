@@ -1,0 +1,12 @@
+{
+  "name": "ckb-explorer-monitor",
+  "version": "1.0.0",
+  "description": "CKB Exploror Frontend Monitor",
+  "main": "index.js",
+  "author": "Dylan",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "^5.1.0"
+  }
+}
